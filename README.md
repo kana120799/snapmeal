@@ -14,7 +14,9 @@ pnpm dev
 bun dev
 ```
 
-[images/chrome_K8cIeFAyYH.png]
+## Preview
+
+![Preview of the app](images/chrome_K8cIeFAyYH.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
